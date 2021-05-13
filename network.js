@@ -9,4 +9,4 @@ Used to set the network
 100 xDai POA Network
 */
 
-window.web3Network = 3;
+window.web3Network = 4;
